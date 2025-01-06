@@ -12,10 +12,11 @@ Security Modules, **Sierra Wireless** short connectivity modules or instrument c
 
 The following C/C++ repositories showcase a full development workflow based on *Visual Studio Code*, *Docker*
 development containers, *cmake*, *clang-format*, *clang-tidy*, *clangd*, *doc8*, *doxygen*, *breathe*, *sphinx*,
-*fastcov*, *cppcheck*, *Netlify* and *GitHub Actions* among others.
+*fastcov*, *cppcheck*, *cmocka*, *googletest*, *Netlify* and *GitHub Actions* among others.
 
-- `Base Decoder and Encoder <https://github.com/dmg0345/bde>`_
-- `Multithreaded Circular Buffers <https://github.com/dmg0345/cb>`_
+- `COVESA / GENIVI Common API C++ Example Integration <https://github.com/dmg0345/commonapi_cpp_examples>`_ [C++]
+- `Base Decoder and Encoder <https://github.com/dmg0345/bde>`_ [C]
+- `Multithreaded Circular Buffers <https://github.com/dmg0345/cb>`_ [C]
 
 The following Python repositories showcase a full development workflow based on *Visual Studio Code*, *Docker*
 development containers, *poetry*, *pylint*, *pyright*, *black*, *doc8*, *sphinx*, *pytest*, *Netlify* and
